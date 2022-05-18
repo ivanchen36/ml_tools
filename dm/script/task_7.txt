@@ -1,0 +1,5 @@
+ÓöµĞ²âÊÔ,single,1
+health,100,10
+guajik,Ë÷ÆæÑÇ
+yudi,0,Ë÷ÆæÑÇ,900,200,60
+guajig

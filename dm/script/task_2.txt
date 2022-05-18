@@ -1,0 +1,11 @@
+制造,single,4
+home
+go,医院,10,35
+chat,0,10,huifu
+health,300,200
+go,医院,12,39
+go,医院,12,42
+go,法兰城,222,85
+go,法兰城,232,84
+chat,0,8
+czhizao,8,d6,造盾,风之盾,cy,j,bj,cs

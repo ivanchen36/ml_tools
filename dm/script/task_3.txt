@@ -1,0 +1,16 @@
+刷热砂,single,0
+home
+go,医院,10,34
+chat,0,2,huifu
+health,300,200
+go,医院,13,37
+go,医院,12,42
+go,法兰城,222,85
+go,法兰城,244,88
+chat,0,1,11111,yes
+chat,0,1,11111,yes
+chat,0,1,11111,yes
+chat,0,1,11111,yes
+chat,0,1,11111,yes
+chat,0,1,11111,yes
+chat,0,1,11111,yes
